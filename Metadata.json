@@ -1,0 +1,20 @@
+{
+    "Author": "Vivek N D",
+    "ContentSize": 10483,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/asset-setup-for-conversion-from-storsimple-to-azure-blob-format/master/MediaFiles-AssetsInput.ps1",
+    "DownloadCount": 609,
+    "Id": "Asset-setup-for-conversion-78330a4c",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 509,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-4-1T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This script helps set up assets for the script that will convert from StorSimple to Azure Blob format. If you use this, only 2 assets will have to be added manually -- the AzureCredential and the VMCredential. All other assets will be added by running this script as a runbook in",
+    "Title": "Asset setup for conversion from StorSimple to Azure Blob format",
+    "UpdatedDate": "2016-4-1T00:00:00",
+    "Url": "https://github.com/azureautomation/asset-setup-for-conversion-from-storsimple-to-azure-blob-format",
+    "UserTags": "Automation, blob storage, Azure Automation"
+}
